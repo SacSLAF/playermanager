@@ -1,0 +1,21 @@
+# Ignore composer dependencies
+/vendor/
+
+# Ignore node dependencies
+/node_modules/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor-specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
